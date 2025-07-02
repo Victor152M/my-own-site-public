@@ -16,12 +16,8 @@ const HeroSection = () => {
             </p>
 
 
-            <p className="mt-2 px-3 text-lg font-semibold text-white bg-gray-900 rounded-lg max-w-2xl">
-            💰 Only <span className="text-yellow-400">$10/hr</span> while I build my portfolio!
-            </p>
-
             <div className="mt-4 px-3 transform transition duration-300 ease-in-out hover:-translate-y-1 ">
-                <a href="https://www.upwork.com/freelancers/~01e1278ab489979deb?viewMode=1" className="relative px-6 py-3 font-bold text-gray-900 bg-yellow-400 rounded-lg max-w-2xl hover:bg-yellow-500">
+                <a href="" className="relative px-6 py-3 font-bold text-gray-900 bg-yellow-400 rounded-lg max-w-2xl hover:bg-yellow-500">
                 🚀 Work With Me
                 </a>
             </div>
